@@ -14,6 +14,7 @@ $fileName = time().rand().".".$fileExt;
 
 // ===================== [ allowed types in array ] ==========================
 $types = array(
+"apk",
 "jpg",
 "aep",
 "iso",
